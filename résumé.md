@@ -2,19 +2,20 @@
 
 [phils.computer](https://phils.computer) – [phil@phils.computer](mailto:phil@phils.computer) – [@phillipmalboeuf](https://twitter.com/phillipmalboeuf) - [github.com/phillipmalboeuf](https://github.com/phillipmalboeuf)
 
+
 Fluent in French and English, currently based in Montréal, Canada
 
 ## Experience
 
-I'm a full-stack developer, proficient with the full spectrum of the development process, starting with user experience research and design, to front-end development with both classic HTML/Sass and React with styled-components, to back-end development in either Node.js or Python, notwithstanding mobile development with React Native or Flutter, and finally managing both  MongoDB and PostgreSQL databases. Most of my work is in the ecommerce domain, where I've built extensive experience with Shopify and Stripe/Braintree custom integrations.
+I'm a full-stack developer, proficient with the full spectrum of the development process, starting with user experience research and design, to front-end development with both classic HTML/Sass and React with styled-components, to back-end development in either Node.js or Python, notwithstanding mobile development with React Native or Flutter, and finally managing both  MongoDB and PostgreSQL databases. (this is a long sentence) Most of my work is in the ecommerce domain, where I've built (does one _build_ experience? One builds skills, one acquires experience. Have, gained, might be better options) extensive experience with Shopify and Stripe/Braintree custom integrations.
 
-And today yet, there's still plenty more for me to learn :)
+And today yet (And yet today), there's still plenty more for me to learn :)
 
 ### Full-stack Web Developer, Freelance
 
 _2012 - Present_
 
-To freelance had always been a dream of mine. I'm able to give plenty of myself to my fellow aspiring business owners. Wether they're artists, designers, developers, or entrepreneurs, I'm happy for the opportunity to offer them what they need on the Web.
+To (be a?) freelance(r?) had always been a dream of mine. I'm able to give plenty of myself to my fellow aspiring business owners. W(h)ether they're artists, designers, developers, or entrepreneurs, I'm happy (should be: grateful, honored, something like that - don't think happy works.) for the opportunity to offer them what they need on the Web.
 
 The hub I built for my freelance practice lives here: [phils.computer](https://phils.computer) and here's a list of current clients you may contact to ask about me:
 
@@ -29,14 +30,14 @@ The hub I built for my freelance practice lives here: [phils.computer](https://p
 
 _August 2013 - May 2014_
 
-I worked as a front-end developer for the menswear ecommerce store [Frank and Oak](https://www.frankandoak.com/), I was entirely responsible for the mobile version of site and I've laid the foundation for the current Backbone.js based version of the site. Working for F&O opened many doors for me and I'm grateful for the relationships I built there.
+I worked as a front-end developer for the menswear e(-?)commerce store [Frank and Oak](https://www.frankandoak.com/), I was entirely (solely? instead) responsible for the mobile version of site and I laid the foundation for the current Backbone.js based version of the site. Working for F&O opened many doors for me and I'm grateful for the relationships I built there.
 
 
 ### Interactive Learning Developer, Nav Canada
 
 _May 2009 - August 2012 as intermittent Co-op placements, Full-time from January 2013 to August 2013_
 
-I worked multiple co-op placements with the Interactive Learning Products team at NAV CANADA, where I built a variety of training modules for air traffic controllers using Adobe Flash and Actionscript 3.0. Also built prototypes of new systems and technologies for iOS with the iPad, as well as web applications with the Drupal CMS. Greatly improved my organizational and communication skills in an environment where teamwork was forefront.
+I worked multiple co-op placements with the Interactive Learning Products team at NAV CANADA, where I built a variety of training modules for air traffic controllers using Adobe Flash and Actionscript 3.0. Also built prototypes of new systems and technologies for iOS with the iPad, as well as web applications with the Drupal CMS. (This experience ?) Greatly improved my organizational and communication skills in an environment where teamwork was forefront.
 
 ## Tools & Technology Proficiencies
 
@@ -111,3 +112,4 @@ I recommend my article on freelancer-to-client communication mistakes: https://p
 
 * **Polytechnique de Montréal:** 2020-TBD, Microprogramme de 2e cycle en Mécatronique
 * **University of Ottawa:** 2008-2012, Software Engineering Graduate, Director of I.T. Engineering Student Society
+ 
