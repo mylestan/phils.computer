@@ -111,3 +111,4 @@ I recommend my article on freelancer-to-client communication mistakes: https://p
 
 * **Polytechnique de Montréal:** 2020-TBD, Microprogramme de 2e cycle en Mécatronique
 * **University of Ottawa:** 2008-2012, Software Engineering Graduate, Director of I.T. Engineering Student Society
+ 
